@@ -1,4 +1,4 @@
-# EUBQC-including-noise-Numerical-results-
+# EUBQC including noise: Numerical results
 Python 3 code (jupyter-notebook) for the numerical results of my BACHELOR THESIS on the topic of BLIND QUANTUM COMPUTATION INCLUDING NOISE.
 
 + ba_plots.ipynb                                    jupyter-notebook file.
